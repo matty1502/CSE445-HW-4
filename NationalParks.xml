@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <NationalParks xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
-               xsi:noNamespaceSchemaLocation="https://matty1502.github.io/NationalParks.xsd">
+               xsi:noNamespaceSchemaLocation="https://raw.githubusercontent.com/matty1502/CSE445-HW-4/refs/heads/main/NationalParks.xsd">
 
     <NationalPark Rating="4.9" NearestAirport="GCN">
         <Name>Grand Canyon</Name>
