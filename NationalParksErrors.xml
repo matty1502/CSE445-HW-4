@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<NationalPark xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+              xsi:noNamespaceSchemaLocation="https://matty1502.github.io/NationalParks.xsd">
+
+    <NationalPark Rating="4.9"> 
+        <Name>Grand Canyon</Name>
+        <Name>The Great Gorge</Name>
+        
+        <Address>
+            <Number>1542</Number>
+            <Street>Liberator Drive</Street>
+            <City>Grand Canyon</City>
+            <State>AZ</State>
+            <Zip>86023</Zip>
+        </NationalPark>
+
+    <NationalPark Rating="4.8" NearestAirport="FAT">
+        <Name>Yosemite</Name>
+        <Phone>209-372-0200</Phone>
+        <Address>
+            <Number>9035</Number>
+            <Street>Village Drive</Street>
+            <City>Yosemite National Park</City>
+            <State>CA</State>
+            <Zip>95389</Zip>
+        </Address>
+    </NationalPark>
+
+</NationalPark>

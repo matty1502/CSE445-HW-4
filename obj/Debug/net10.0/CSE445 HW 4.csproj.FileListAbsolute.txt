@@ -1,0 +1,18 @@
+/Users/mateo/Documents/GitHub/CSE445 HW 4/obj/Debug/net10.0/CSE445 HW 4.csproj.AssemblyReference.cache
+/Users/mateo/Documents/GitHub/CSE445 HW 4/obj/Debug/net10.0/CSE445 HW 4.GeneratedMSBuildEditorConfig.editorconfig
+/Users/mateo/Documents/GitHub/CSE445 HW 4/obj/Debug/net10.0/CSE445 HW 4.AssemblyInfoInputs.cache
+/Users/mateo/Documents/GitHub/CSE445 HW 4/obj/Debug/net10.0/CSE445 HW 4.AssemblyInfo.cs
+/Users/mateo/Documents/GitHub/CSE445 HW 4/obj/Debug/net10.0/CSE445 HW 4.csproj.CoreCompileInputs.cache
+/Users/mateo/Documents/GitHub/CSE445 HW 4/obj/Debug/net10.0/CSE445 HW 4.sourcelink.json
+/Users/mateo/Documents/GitHub/CSE445 HW 4/bin/Debug/net10.0/CSE445 HW 4
+/Users/mateo/Documents/GitHub/CSE445 HW 4/bin/Debug/net10.0/CSE445 HW 4.deps.json
+/Users/mateo/Documents/GitHub/CSE445 HW 4/bin/Debug/net10.0/CSE445 HW 4.runtimeconfig.json
+/Users/mateo/Documents/GitHub/CSE445 HW 4/bin/Debug/net10.0/CSE445 HW 4.dll
+/Users/mateo/Documents/GitHub/CSE445 HW 4/bin/Debug/net10.0/CSE445 HW 4.pdb
+/Users/mateo/Documents/GitHub/CSE445 HW 4/bin/Debug/net10.0/Newtonsoft.Json.dll
+/Users/mateo/Documents/GitHub/CSE445 HW 4/obj/Debug/net10.0/CSE445 H.64F0CA37.Up2Date
+/Users/mateo/Documents/GitHub/CSE445 HW 4/obj/Debug/net10.0/CSE445 HW 4.dll
+/Users/mateo/Documents/GitHub/CSE445 HW 4/obj/Debug/net10.0/refint/CSE445 HW 4.dll
+/Users/mateo/Documents/GitHub/CSE445 HW 4/obj/Debug/net10.0/CSE445 HW 4.pdb
+/Users/mateo/Documents/GitHub/CSE445 HW 4/obj/Debug/net10.0/CSE445 HW 4.genruntimeconfig.cache
+/Users/mateo/Documents/GitHub/CSE445 HW 4/obj/Debug/net10.0/ref/CSE445 HW 4.dll

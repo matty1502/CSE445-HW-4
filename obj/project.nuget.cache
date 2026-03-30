@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "VDOeDkZToYs=",
+  "success": true,
+  "projectFilePath": "/Users/mateo/Documents/GitHub/CSE445 HW 4/CSE445 HW 4.csproj",
+  "expectedPackageFiles": [
+    "/Users/mateo/.nuget/packages/newtonsoft.json/13.0.4/newtonsoft.json.13.0.4.nupkg.sha512"
+  ],
+  "logs": []
+}
