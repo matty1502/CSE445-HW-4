@@ -113,18 +113,6 @@
         </Address>
     </NationalPark>
 
-    <NationalPark Rating="4.8" NearestAirport="BHB">
-        <Name>Acadia</Name>
-        <Phone>207-288-3338</Phone>
-        <Address>
-            <Number>20</Number>
-            <Street>McFarland Hill Drive</Street>
-            <City>Bar Harbor</City>
-            <State>ME</State>
-            <Zip>04609</Zip>
-        </Address>
-    </NationalPark>
-
     <NationalPark Rating="4.9" NearestAirport="TYS">
         <Name>Great Smoky Mountains</Name>
         <Phone>865-436-1200</Phone>
